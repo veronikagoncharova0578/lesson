@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+    color:midnightblue;
+    font-size: 20px;
+}
+a:hover{
+    color: chartreuse;
+}
+body{
+    background-color:darkgray;
+    text-align: center;
+    
+}
+
+p{
+    font-size: 20px;
+}
